@@ -98,7 +98,7 @@ Key insights:
 
 ## 📊 Research Summary
 
-![Summary](results/figures/fig7_summary_infographic.png)
+![Summary](results/figures/fig7_research_summary.png)
 
 ---
 
